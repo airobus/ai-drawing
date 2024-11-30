@@ -69,3 +69,6 @@ GitHub Actions 生成新图片
 不需要服务器维护
 
 //pnpm run start --token xxx
+
+pnpm install --no-frozen-lockfile
+改为：pnpm install 
