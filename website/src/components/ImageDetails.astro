@@ -5,7 +5,7 @@ const { data, source } = Astro.props;
 
 const images: string[] = []
 
-data.images.forEach((item: string, index: number) => {
+data.images.forEach((_: string, index: number) => {
   const path = `/${source}/${data.localImagesPath}/${index}.jpg`
   images.push(path)
 });

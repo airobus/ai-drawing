@@ -3,7 +3,7 @@ const { data } = Astro.props;
 
 const images: string[] = []
 
-data.images.forEach((item: string, index: number) => {
+data.images.forEach((_: string, index: number) => {
   const path = `/flux_images/${data.localImagesPath}/${index}.jpg`
   images.push(path)
 });

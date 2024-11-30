@@ -314,6 +314,11 @@ declare module 'astro:content' {
   collection: "flux_images";
   data: InferEntrySchema<"flux_images">
 };
+"1732961152615": {
+	id: "1732961152615";
+  collection: "flux_images";
+  data: InferEntrySchema<"flux_images">
+};
 };
 "images": {
 "1698916978723": {

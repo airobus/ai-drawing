@@ -31,23 +31,10 @@ const flux_images = defineCollection({
     }),
 });
 
-// 定义 authors 集合
-const authors = defineCollection({
-    type: "data",
-    schema: z.object({
-        name: z.string(),
-        avatar: z.string(),
-        bio: z.string(),
-        social: z.object({
-            twitter: z.string().optional(),
-            github: z.string().optional(),
-        }).optional(),
-    }),
-});
 
 // Expose your defined collection to Astro
 // with the `collections` export
-export const collections = { images,flux_images, authors };
+export const collections = { images, flux_images };
 
 // 在 content/config.ts 中，使用 defineCollection 定义了 images 集合
 // 使用 Zod（z）定义了数据的结构（schema）：
