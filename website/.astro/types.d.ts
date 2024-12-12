@@ -334,6 +334,76 @@ declare module 'astro:content' {
   collection: "flux_images";
   data: InferEntrySchema<"flux_images">
 };
+"1732964470058": {
+	id: "1732964470058";
+  collection: "flux_images";
+  data: InferEntrySchema<"flux_images">
+};
+"1732964760281": {
+	id: "1732964760281";
+  collection: "flux_images";
+  data: InferEntrySchema<"flux_images">
+};
+"1733007668780": {
+	id: "1733007668780";
+  collection: "flux_images";
+  data: InferEntrySchema<"flux_images">
+};
+"1733094071279": {
+	id: "1733094071279";
+  collection: "flux_images";
+  data: InferEntrySchema<"flux_images">
+};
+"1733180487379": {
+	id: "1733180487379";
+  collection: "flux_images";
+  data: InferEntrySchema<"flux_images">
+};
+"1733266882875": {
+	id: "1733266882875";
+  collection: "flux_images";
+  data: InferEntrySchema<"flux_images">
+};
+"1733353278839": {
+	id: "1733353278839";
+  collection: "flux_images";
+  data: InferEntrySchema<"flux_images">
+};
+"1733439680447": {
+	id: "1733439680447";
+  collection: "flux_images";
+  data: InferEntrySchema<"flux_images">
+};
+"1733526066601": {
+	id: "1733526066601";
+  collection: "flux_images";
+  data: InferEntrySchema<"flux_images">
+};
+"1733612470350": {
+	id: "1733612470350";
+  collection: "flux_images";
+  data: InferEntrySchema<"flux_images">
+};
+"1733725696571": {
+	id: "1733725696571";
+  collection: "flux_images";
+  data: InferEntrySchema<"flux_images">
+};
+"1733785275006": {
+	id: "1733785275006";
+  collection: "flux_images";
+  data: InferEntrySchema<"flux_images">
+};
+"1733871685311": {
+	id: "1733871685311";
+  collection: "flux_images";
+  data: InferEntrySchema<"flux_images">
+};
+"1733958073795": {
+	id: "1733958073795";
+  collection: "flux_images";
+  data: InferEntrySchema<"flux_images">
+};
 };
 "images": {
 "1698916978723": {
